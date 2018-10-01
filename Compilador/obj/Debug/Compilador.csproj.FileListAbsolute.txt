@@ -1,0 +1,50 @@
+D:\VisualProyects\Compilador\Compilador\bin\Debug\Compilador.exe.config
+D:\VisualProyects\Compilador\Compilador\bin\Debug\Compilador.exe
+D:\VisualProyects\Compilador\Compilador\bin\Debug\Compilador.pdb
+D:\VisualProyects\Compilador\Compilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+D:\VisualProyects\Compilador\Compilador\obj\Debug\Compilador.Ingreso.resources
+D:\VisualProyects\Compilador\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+D:\VisualProyects\Compilador\Compilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+D:\VisualProyects\Compilador\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+D:\VisualProyects\Compilador\Compilador\obj\Debug\Compilador.exe
+D:\VisualProyects\Compilador\Compilador\obj\Debug\Compilador.pdb
+D:\Documents\Universidad\Semestre 8\Compiladores\Compilador\Compilador\bin\Debug\Compilador.exe.config
+D:\Documents\Universidad\Semestre 8\Compiladores\Compilador\Compilador\bin\Debug\Compilador.exe
+D:\Documents\Universidad\Semestre 8\Compiladores\Compilador\Compilador\bin\Debug\Compilador.pdb
+D:\Documents\Universidad\Semestre 8\Compiladores\Compilador\Compilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+D:\Documents\Universidad\Semestre 8\Compiladores\Compilador\Compilador\obj\Debug\Compilador.Ingreso.resources
+D:\Documents\Universidad\Semestre 8\Compiladores\Compilador\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+D:\Documents\Universidad\Semestre 8\Compiladores\Compilador\Compilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+D:\Documents\Universidad\Semestre 8\Compiladores\Compilador\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+D:\Documents\Universidad\Semestre 8\Compiladores\Compilador\Compilador\obj\Debug\Compilador.exe
+D:\Documents\Universidad\Semestre 8\Compiladores\Compilador\Compilador\obj\Debug\Compilador.pdb
+D:\Documents\Universidad\Semestre 8\Compiladores\Compiladores de otros\CompiladorClase\Compilador\bin\Debug\Compilador.exe.config
+D:\Documents\Universidad\Semestre 8\Compiladores\Compiladores de otros\CompiladorClase\Compilador\bin\Debug\Compilador.exe
+D:\Documents\Universidad\Semestre 8\Compiladores\Compiladores de otros\CompiladorClase\Compilador\bin\Debug\Compilador.pdb
+D:\Documents\Universidad\Semestre 8\Compiladores\Compiladores de otros\CompiladorClase\Compilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+D:\Documents\Universidad\Semestre 8\Compiladores\Compiladores de otros\CompiladorClase\Compilador\obj\Debug\Compilador.Ingreso.resources
+D:\Documents\Universidad\Semestre 8\Compiladores\Compiladores de otros\CompiladorClase\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+D:\Documents\Universidad\Semestre 8\Compiladores\Compiladores de otros\CompiladorClase\Compilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+D:\Documents\Universidad\Semestre 8\Compiladores\Compiladores de otros\CompiladorClase\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+D:\Documents\Universidad\Semestre 8\Compiladores\Compiladores de otros\CompiladorClase\Compilador\obj\Debug\Compilador.exe
+D:\Documents\Universidad\Semestre 8\Compiladores\Compiladores de otros\CompiladorClase\Compilador\obj\Debug\Compilador.pdb
+C:\Users\Usuario.EDC\Downloads\Compilador\Compilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+C:\Users\Usuario.EDC\Downloads\Compilador\Compilador\obj\Debug\Compilador.Ingreso.resources
+C:\Users\Usuario.EDC\Downloads\Compilador\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+C:\Users\Usuario.EDC\Downloads\Compilador\Compilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+C:\Users\Usuario.EDC\Downloads\Compilador\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\Usuario.EDC\Downloads\Compilador\Compilador\obj\Debug\Compilador.exe
+C:\Users\Usuario.EDC\Downloads\Compilador\Compilador\obj\Debug\Compilador.pdb
+C:\Users\Usuario.EDC\Downloads\Compilador\Compilador\bin\Debug\Compilador.exe.config
+C:\Users\Usuario.EDC\Downloads\Compilador\Compilador\bin\Debug\Compilador.exe
+C:\Users\Usuario.EDC\Downloads\Compilador\Compilador\bin\Debug\Compilador.pdb
+D:\Documents\Universidad\Semestre 8\Compiladores\Compilador Clase\Compilador\Compilador\bin\Debug\Compilador.exe.config
+D:\Documents\Universidad\Semestre 8\Compiladores\Compilador Clase\Compilador\Compilador\bin\Debug\Compilador.exe
+D:\Documents\Universidad\Semestre 8\Compiladores\Compilador Clase\Compilador\Compilador\bin\Debug\Compilador.pdb
+D:\Documents\Universidad\Semestre 8\Compiladores\Compilador Clase\Compilador\Compilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+D:\Documents\Universidad\Semestre 8\Compiladores\Compilador Clase\Compilador\Compilador\obj\Debug\Compilador.Ingreso.resources
+D:\Documents\Universidad\Semestre 8\Compiladores\Compilador Clase\Compilador\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+D:\Documents\Universidad\Semestre 8\Compiladores\Compilador Clase\Compilador\Compilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+D:\Documents\Universidad\Semestre 8\Compiladores\Compilador Clase\Compilador\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+D:\Documents\Universidad\Semestre 8\Compiladores\Compilador Clase\Compilador\Compilador\obj\Debug\Compilador.exe
+D:\Documents\Universidad\Semestre 8\Compiladores\Compilador Clase\Compilador\Compilador\obj\Debug\Compilador.pdb
